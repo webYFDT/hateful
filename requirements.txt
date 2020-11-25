@@ -1,0 +1,1 @@
+fasttext==0.9.1lmdb==0.98mmf @ git+https://github.com/facebookresearch/mmf.git@d9ab0649464d50d311b6024a76e1902761c2e99dnumpy==1.19.4spacy==2.3.2tqdm==4.51.0
