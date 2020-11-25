@@ -260,5 +260,4 @@ Configure the CSV file path of the prediction phase2 results of all the above mo
 
 ## Code and model download address
 	
-	link: https://pan.baidu.com/s/1awKZ4g9xKTW2ZXzeiarErg  password: ueq0
-
+	link: https://pan.baidu.com/s/1IH7hMz7Yp1nXzVV_P5DXjQ  password: k740
